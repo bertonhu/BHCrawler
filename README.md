@@ -1,6 +1,8 @@
 # BHCrawler - Crwal all BlackHat briefings slides.
 
-**Author:** [@Berton_Hu](https://twitter.com/Berton_Hu)
+**Author:** 
+* Twitter: [@Berton_Hu](https://twitter.com/Berton_Hu)
+* Blog Page: [https://www.bertonhu.com/2019/09/02/BlackHat-briefings-slides-crawler-tool.html](https://www.bertonhu.com/2019/09/02/BlackHat-briefings-slides-crawler-tool.html)
 
 Crawl all BlackHat briefings slides, whitepaper, source code URL.
 
